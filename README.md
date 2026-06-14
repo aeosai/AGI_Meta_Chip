@@ -4,7 +4,7 @@ A General Intelligence | Abundance Galactic OS. | A Vault of Intelligence that i
 preview here: https://www.youtube.com/watch?v=kzIgWUCtGNo
 
 
-An Offline-first: knowledge over raw data, local-first operation, graceful degradation when disconnected. Rather than emphasizing the visual plasma economy, I should frame this as a utility-focused intelligence operating system that deploys thousands of professional role agents, builds its own knowledge base over time, and remains functional without network access. three core instruments: Galactic OS (the agent engine with thousands of pre-built roles across sectors, fully deployable offline with model flexibility), Abundance OS (a frontier reference mapping emerging possibilities), and Zero (a generative tool triggered by simple input).
+An Offline-first: knowledge over raw data, local-first operation, graceful degradation when disconnected. Galactic OS (the agent engine with thousands of pre-built roles across sectors, fully deployable offline with model flexibility), Abundance OS (a frontier reference mapping emerging possibilities), and Zero (a generative tool triggered by simple input).
    The three instruments: 
 ◇ Galactic OS — the agent engine
 The core. Galactic OS holds a deep, structured catalogue of professional practice — 9,000+ roles across 65+ sectors — and turns any one of them into a deployable, copy-paste agent brief or Agent Creation or Agent Skill MD in seconds, entirely offline. With AI API connectivity enabled from settings. 
